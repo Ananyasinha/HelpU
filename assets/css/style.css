@@ -1,0 +1,54 @@
+body{
+	font-family: 'Roboto Condensed', sans-serif;
+	background-color: #f5f5f5;
+}
+.top-bar{
+	background-color:white;
+	height:60px;
+	box-shadow: 0px 1px 1px 0px #d0d0d0;
+}
+.helpu-logo{
+	width:100px;
+	height:50px;
+	margin-top:-10px;
+}
+
+h1{
+	font-family: 'Roboto Condensed', sans-serif;
+	font-size: 22px;
+	font-weight: 600;
+}
+
+h2{
+	font-family: 'Roboto Condensed', sans-serif;
+	font-size: 16px;
+	font-weight: 600;
+}
+
+
+.add-product-main{
+	margin-top:20px;
+	max-width: 800px;
+	box-shadow:0px 0px 1px 1px #e0e0e0;
+	background-color:white;
+}
+
+.mar-product-up{
+	margin-top: 20px;
+}
+
+.mar-product-down{
+	margin-bottom: 20px;
+	margin-top:20px;
+}
+
+
+.first-pro{
+	margin-top: 50px	
+}
+
+#products-area{
+	margin-bottom:30px;
+	margin-top:40px
+}
+
